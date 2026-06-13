@@ -271,7 +271,7 @@ footer_content = """
         <a href="https://www.linkedin.com/in/aditya-srivastava-253b16334/" target="_blank" class="footer-icon-link" title="LinkedIn">
             <i class="fab fa-linkedin" style="font-size: 1.5rem;"></i>
         </a>
-        <a href="https://github.com/Aditya92584/Health-Insurance-Prediction" target="_blank" class="footer-icon-link" title="GitHub">
+        <a href="https://github.com/Aditya92584" target="_blank" class="footer-icon-link" title="GitHub">
             <i class="fab fa-github" style="font-size: 1.5rem;"></i>
         </a>
         <a href="https://twitter.com/" target="_blank" class="footer-icon-link" title="Twitter / X">
