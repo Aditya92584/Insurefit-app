@@ -263,7 +263,7 @@ footer_content = """
         <strong style="color: #012780; font-weight: 700; margin-left: 4px;">Aditya Srivastava</strong>
         <br>
         <span style="color: #64748b; font-size: 0.8rem;">Inquiries: </span>
-        <a href="mailto:your.email@example.com" style="color: #1e293b; font-weight: 600; text-decoration: none; border-bottom: 1px dashed #1e293b; padding-bottom: 1px;">
+        <a href="mailto:adityasrivastava.edu@gmail.com" style="color: #1e293b; font-weight: 600; text-decoration: none; border-bottom: 1px dashed #1e293b; padding-bottom: 1px;">
             adityasrivastava.edu@gmail.com
         </a>
     </div>
